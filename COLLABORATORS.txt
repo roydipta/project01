@@ -1,0 +1,5 @@
+(This is an example. Please edit accordingly.)
+
+Name: Dipta Roy
+I spent a week on this project. Mostly figuring out how to go about each of the codes.
+Google, stack overflow, Kaggle, and my prior machine learning projects were a go to in helping me with this project. A lot of time was spent on trying to achieve top ten on the leaderboard (could've spent less time on that).
